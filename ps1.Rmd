@@ -1,13 +1,13 @@
 ---
 title: "Problem Set 1"
-author: "Your Name"
+author: "Aliya Salikh"
 date: "`r Sys.Date()`"
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
-library(tidyverse)
+#library(tidyverse)
 ```
 
 ### Introduction
